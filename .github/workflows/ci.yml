@@ -1,0 +1,31 @@
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  validate:
+    name: Validate question bank & knowledge export
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Validate question bank (schema + invariants)
+        run: python scripts/validate_questions.py
+
+      - name: Check the knowledge export is up to date
+        run: |
+          python scripts/export_knowledge.py
+          if ! git diff --quiet -- claude-project/knowledge/02-question-bank.md; then
+            echo "::error::02-question-bank.md is out of date. Run 'python scripts/export_knowledge.py' and commit the result."
+            git --no-pager diff -- claude-project/knowledge/02-question-bank.md
+            exit 1
+          fi
+          echo "Knowledge export is in sync."

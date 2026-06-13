@@ -72,7 +72,9 @@ def main() -> int:
         lines.append("\n---\n")
 
     OUT.parent.mkdir(parents=True, exist_ok=True)
-    OUT.write_text("\n".join(lines), encoding="utf-8")
+    # Always write LF so the CI export-freshness check is deterministic across
+    # platforms (Python text mode would otherwise rewrite \n to \r\n on Windows).
+    OUT.write_text("\n".join(lines) + "\n", encoding="utf-8", newline="\n")
     print(f"[written] {OUT}  ({len(questions)} questions)")
     return 0
 

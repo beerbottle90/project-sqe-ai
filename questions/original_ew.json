@@ -17,7 +17,11 @@
     "answer": "B",
     "explanation": "Where a party performs an existing contractual duty and thereby confers a practical benefit on the other (here, avoiding the penalty and the delay of re-engaging a builder), that benefit can amount to good consideration for a promise to pay more, provided the promise was not obtained by economic duress or fraud. The strict rule in Stilk v Myrick is qualified by this practical-benefit exception. There was no duress on these facts, so the promise is enforceable.",
     "verified_for_ew": true,
-    "tags": ["consideration", "practical-benefit", "economic-duress"],
+    "tags": [
+      "consideration",
+      "practical-benefit",
+      "economic-duress"
+    ],
     "authority": "Williams v Roffey Bros & Nicholls (Contractors) Ltd [1991] 1 QB 1"
   },
   {
@@ -38,7 +42,11 @@
     "answer": "C",
     "explanation": "For a duty of care in respect of pure economic loss caused by a negligent statement, there must be foreseeability, sufficient proximity and that it be fair, just and reasonable to impose a duty. Statutory audit accounts are prepared so that shareholders as a body may exercise control of the company, not to guide individual investment decisions. There is therefore no assumption of responsibility to, or sufficient proximity with, an unknown investor for that purpose. Option D is wrong because pure economic loss is recoverable in the limited Hedley Byrne situations.",
     "verified_for_ew": true,
-    "tags": ["negligent-misstatement", "pure-economic-loss", "duty-of-care"],
+    "tags": [
+      "negligent-misstatement",
+      "pure-economic-loss",
+      "duty-of-care"
+    ],
     "authority": "Caparo Industries plc v Dickman [1990] UKHL 2"
   },
   {
@@ -59,7 +67,11 @@
     "answer": "B",
     "explanation": "Under s 168 a director may be removed by ordinary resolution (a simple majority). Special notice of 28 days is required under s 312, and s 288(2)(a) excludes a s 168 removal from the written resolution procedure, so the resolution must be passed at a general meeting. The director also has the right to make representations under s 169.",
     "verified_for_ew": true,
-    "tags": ["company-law", "removal-of-director", "special-notice"],
+    "tags": [
+      "company-law",
+      "removal-of-director",
+      "special-notice"
+    ],
     "authority": "Companies Act 2006, ss 168, 288(2)(a) and 312"
   },
   {
@@ -80,7 +92,11 @@
     "answer": "C",
     "explanation": "The intermediate track, in force from 1 October 2023, is for claims of more than GBP 25,000 but not more than GBP 100,000 that are of modest complexity and whose trial is not expected to exceed three days. A straightforward GBP 35,000 claim falls within it. (Small claims: up to GBP 10,000; fast track: GBP 10,000-25,000; multi-track: over GBP 100,000 or complex matters.)",
     "verified_for_ew": true,
-    "tags": ["civil-procedure", "track-allocation", "intermediate-track"],
+    "tags": [
+      "civil-procedure",
+      "track-allocation",
+      "intermediate-track"
+    ],
     "authority": "Civil Procedure Rules, Part 26 (intermediate track from 1 October 2023)"
   },
   {
@@ -101,7 +117,11 @@
     "answer": "C",
     "explanation": "Two duties collide: the duty not to mislead the court (which overrides the duty to the client) and the duty of confidentiality. The solicitor cannot continue to rely on a document known to be forged, as that would mislead the court; but the solicitor also cannot breach confidentiality by telling the court (so B is wrong). The correct course is to advise the client, and if the client will not allow the position to be put right, to cease acting without disclosing the privileged information.",
     "verified_for_ew": true,
-    "tags": ["professional-conduct", "misleading-the-court", "confidentiality"],
+    "tags": [
+      "professional-conduct",
+      "misleading-the-court",
+      "confidentiality"
+    ],
     "authority": "SRA Code of Conduct for Solicitors, paras 1.4 and 6.3"
   },
   {
@@ -122,7 +142,11 @@
     "answer": "C",
     "explanation": "Theft under s 1 requires a dishonest appropriation of property belonging to another with the intention of permanently depriving the other of it. Section 6 makes clear that borrowing with a genuine intention to return generally does not amount to an intention permanently to deprive. As the man intended to return the umbrella, that element is missing (and his honesty is, in any event, doubtful as theft).",
     "verified_for_ew": true,
-    "tags": ["theft", "mens-rea", "intention-to-permanently-deprive"],
+    "tags": [
+      "theft",
+      "mens-rea",
+      "intention-to-permanently-deprive"
+    ],
     "authority": "Theft Act 1968, ss 1 and 6"
   },
   {
@@ -143,7 +167,11 @@
     "answer": "B",
     "explanation": "A joint tenant may sever the beneficial joint tenancy by giving written notice to the other joint tenant(s) under s 36(2) of the Law of Property Act 1925; this converts the beneficial interest into a tenancy in common. A severed share no longer passes by survivorship and so passes under the will. The legal estate cannot be severed and remains held on a joint tenancy. The friend therefore takes the deceased's half share, not the whole house (so D is wrong).",
     "verified_for_ew": true,
-    "tags": ["co-ownership", "severance", "joint-tenancy"],
+    "tags": [
+      "co-ownership",
+      "severance",
+      "joint-tenancy"
+    ],
     "authority": "Law of Property Act 1925, s 36(2)"
   },
   {
@@ -164,7 +192,11 @@
     "answer": "C",
     "explanation": "The first of the three certainties is certainty of intention. Precatory words - expressions of hope, wish or confidence such as 'in full confidence' - do not, as a rule, demonstrate a binding intention to create a trust. The widow therefore takes the estate absolutely and no trust arises.",
     "verified_for_ew": true,
-    "tags": ["three-certainties", "certainty-of-intention", "precatory-words"],
+    "tags": [
+      "three-certainties",
+      "certainty-of-intention",
+      "precatory-words"
+    ],
     "authority": "Knight v Knight (1840) 3 Beav 148; Re Adams and Kensington Vestry (1884) 27 Ch D 394"
   },
   {
@@ -185,7 +217,11 @@
     "answer": "C",
     "explanation": "If the formalities in s 9 are met (in writing, signed by the testator, and witnessed by two witnesses present at the same time) the will is validly executed. However, s 15 makes void any gift to a witness or to the spouse or civil partner of a witness; the rest of the will remains valid. Here there are two independent attesting witnesses, so the will stands, but the gift to the friend (whose husband witnessed) is void.",
     "verified_for_ew": true,
-    "tags": ["wills", "attestation", "beneficiary-witness"],
+    "tags": [
+      "wills",
+      "attestation",
+      "beneficiary-witness"
+    ],
     "authority": "Wills Act 1837, ss 9 and 15"
   },
   {
@@ -206,7 +242,11 @@
     "answer": "B",
     "explanation": "Under the Standard Conditions of Sale the risk in the property passes to the buyer on exchange of contracts, and the seller is not obliged to keep the property insured for the buyer. The buyer is therefore advised to insure the property from the moment of exchange. The contract is not frustrated merely by damage to the property.",
     "verified_for_ew": true,
-    "tags": ["conveyancing", "risk-on-exchange", "standard-conditions-of-sale"],
+    "tags": [
+      "conveyancing",
+      "risk-on-exchange",
+      "standard-conditions-of-sale"
+    ],
     "authority": "Standard Conditions of Sale, condition 5.1"
   },
   {
@@ -227,7 +267,10 @@
     "answer": "C",
     "explanation": "Under s 5 of the Limitation Act 1980, the limitation period for a simple contract is six years from the date the cause of action accrued. 10 June 2019 plus six years gives 10 June 2025. (A contract executed as a deed would attract a 12-year period under s 8; a personal injury claim would be three years under s 11.)",
     "verified_for_ew": true,
-    "tags": ["limitation", "contract-six-years"],
+    "tags": [
+      "limitation",
+      "contract-six-years"
+    ],
     "authority": "Limitation Act 1980, s 5"
   },
   {
@@ -248,7 +291,10 @@
     "answer": "B",
     "explanation": "Money received on account of costs before a bill has been delivered is client money and must be paid promptly into a client account. Once the solicitor delivers a bill to the client, the relevant sum becomes business money and may then be transferred from the client account to the business account.",
     "verified_for_ew": true,
-    "tags": ["client-money", "on-account-of-costs"],
+    "tags": [
+      "client-money",
+      "on-account-of-costs"
+    ],
     "authority": "SRA Accounts Rules, rr 2-4"
   },
   {
@@ -269,7 +315,764 @@
     "answer": "B",
     "explanation": "Section 2(2) imposes the common duty of care on an occupier towards all lawful visitors - to take such care as in all the circumstances is reasonable to see that the visitor will be reasonably safe in using the premises for the permitted purposes. Section 2(3)(a) provides that 'an occupier must be prepared for children to be less careful than adults', so a danger an adult would avoid may still found liability where the visitor is a young child. The child is a lawful visitor, the duty is owed to her directly, and there is no automatic exclusion for natural dangers - so C, D and E are wrong. This question was generated from the official statutory text on legislation.gov.uk.",
     "verified_for_ew": true,
-    "tags": ["occupiers-liability", "common-duty-of-care", "children", "generated-from-legislation"],
+    "tags": [
+      "occupiers-liability",
+      "common-duty-of-care",
+      "children",
+      "generated-from-legislation"
+    ],
     "authority": "Occupiers' Liability Act 1957, s 2(2) and s 2(3)(a)"
+  },
+  {
+    "id": "ew-contract-0002",
+    "source": "original",
+    "jurisdiction": "England & Wales",
+    "subject": "Contract",
+    "flk": "FLK1",
+    "scenario": "A seller posts a letter to a buyer offering to sell goods and inviting a reply by post. The buyer posts a correctly addressed and stamped letter of acceptance at 9am. That letter is delayed in the post and never arrives. At 11am the same day, the seller sells the goods to a third party.",
+    "question": "Was a binding contract formed between the seller and the buyer?",
+    "options": {
+      "A": "No, because acceptance is only effective when it is actually received by the offeror.",
+      "B": "Yes, because under the postal rule acceptance was effective when the letter was posted, even though it never arrived.",
+      "C": "No, because the letter never reached the seller, so acceptance was never communicated.",
+      "D": "Yes, but only from the time the seller would ordinarily have received the letter.",
+      "E": "No, because the seller revoked the offer by selling to the third party."
+    },
+    "answer": "B",
+    "explanation": "Where the post is a contemplated means of acceptance, the postal rule makes acceptance effective when the letter is properly posted, not when it is received, even if it is delayed or lost. The contract was formed at 9am, before the sale to the third party. The postal rule does not apply to instantaneous communications such as email, where receipt is required.",
+    "verified_for_ew": true,
+    "tags": [
+      "offer-and-acceptance",
+      "postal-rule"
+    ],
+    "authority": "Adams v Lindsell (1818) 1 B & Ald 681"
+  },
+  {
+    "id": "ew-contract-0003",
+    "source": "original",
+    "jurisdiction": "England & Wales",
+    "subject": "Contract",
+    "flk": "FLK1",
+    "scenario": "Before selling his business, a seller tells the buyer that annual turnover is GBP 200,000. He relied honestly but carelessly on out-of-date figures; the true turnover is GBP 120,000. Induced by the statement, the buyer buys the business and suffers loss. The seller cannot show he had reasonable grounds to believe the statement was true.",
+    "question": "What is the buyer's best claim in respect of the misstatement?",
+    "options": {
+      "A": "Fraudulent misrepresentation, because any false statement is fraudulent.",
+      "B": "Negligent misrepresentation under section 2(1) of the Misrepresentation Act 1967, with damages assessed as for fraud.",
+      "C": "No claim, because the seller honestly believed the statement.",
+      "D": "Breach of contract only, because the statement was not a term.",
+      "E": "Innocent misrepresentation, so the only remedy is rescission and never damages."
+    },
+    "answer": "B",
+    "explanation": "Under s 2(1) of the Misrepresentation Act 1967 the buyer can recover damages unless the representor proves he had reasonable grounds to believe, and did believe, the statement was true. The seller cannot discharge that burden, so he is liable, and damages are assessed on the tortious (fraud) measure under the 'fiction of fraud'. It is not fraudulent misrepresentation because the seller was honest.",
+    "verified_for_ew": true,
+    "tags": [
+      "misrepresentation",
+      "damages"
+    ],
+    "authority": "Misrepresentation Act 1967, s 2(1)"
+  },
+  {
+    "id": "ew-contract-0004",
+    "source": "original",
+    "jurisdiction": "England & Wales",
+    "subject": "Contract",
+    "flk": "FLK1",
+    "scenario": "A commercial contract provides that, if one party breaches a confidentiality clause, it must pay a fixed sum to the other. The sum is substantial but reflects the innocent party's genuine commercial interest in keeping the information secret and is not extravagant compared with that interest.",
+    "question": "Is the clause likely to be enforceable?",
+    "options": {
+      "A": "No, because any clause fixing a sum payable on breach is an unenforceable penalty.",
+      "B": "No, unless the sum is a precise pre-estimate of the likely loss.",
+      "C": "Yes, because the clause protects a legitimate interest and is not out of all proportion to that interest.",
+      "D": "Yes, because freedom of contract means all agreed clauses are enforceable.",
+      "E": "No, because confidentiality obligations cannot be supported by financial remedies."
+    },
+    "answer": "C",
+    "explanation": "The modern test is whether the clause imposes a detriment on the contract-breaker out of all proportion to a legitimate interest of the innocent party in enforcing the obligation. A clause protecting a genuine commercial interest that is not exorbitant or unconscionable is not a penalty and is enforceable, even if it is not a precise pre-estimate of loss (the older, narrower test in B).",
+    "verified_for_ew": true,
+    "tags": [
+      "penalty-clause",
+      "liquidated-damages"
+    ],
+    "authority": "Cavendish Square Holding BV v Makdessi [2015] UKSC 67"
+  },
+  {
+    "id": "ew-contract-0005",
+    "source": "original",
+    "jurisdiction": "England & Wales",
+    "subject": "Contract",
+    "flk": "FLK1",
+    "scenario": "Two businesses contract on the supplier's standard written terms. One term purports to exclude all liability for death or personal injury caused by the supplier's negligence. A customer's employee is injured by the supplier's negligence.",
+    "question": "Is the exclusion clause effective against the personal injury claim?",
+    "options": {
+      "A": "Yes, because the parties are businesses and freely agreed the term.",
+      "B": "Yes, provided the clause is clearly drafted and brought to the customer's attention.",
+      "C": "No, because a person cannot by a contract term exclude liability for death or personal injury resulting from negligence.",
+      "D": "No, but only if the clause fails the reasonableness test.",
+      "E": "Yes, because the Unfair Contract Terms Act 1977 does not apply between businesses."
+    },
+    "answer": "C",
+    "explanation": "Under the Unfair Contract Terms Act 1977, liability for death or personal injury resulting from negligence cannot be excluded or restricted by a contract term or notice at all; the reasonableness test does not even arise. For other loss caused by negligence, an exclusion is subject to the reasonableness test.",
+    "verified_for_ew": true,
+    "tags": [
+      "exclusion-clause",
+      "UCTA",
+      "negligence"
+    ],
+    "authority": "Unfair Contract Terms Act 1977, s 2(1)"
+  },
+  {
+    "id": "ew-tort-0003",
+    "source": "original",
+    "jurisdiction": "England & Wales",
+    "subject": "Tort",
+    "flk": "FLK1",
+    "scenario": "A man attends hospital with severe vomiting. A doctor negligently fails to examine him and sends him home. He dies hours later of arsenic poisoning. The medical evidence shows that, even if the doctor had examined and treated him promptly, he would still have died because it was already too late.",
+    "question": "Is the hospital liable in negligence for the man's death?",
+    "options": {
+      "A": "Yes, because the doctor clearly breached the duty of care owed to the patient.",
+      "B": "Yes, because the breach occurred before the death.",
+      "C": "No, because the breach did not cause the death; he would have died even with proper treatment.",
+      "D": "No, because hospitals never owe a duty to walk-in patients.",
+      "E": "Yes, because causation is presumed once a breach of duty is shown."
+    },
+    "answer": "C",
+    "explanation": "Even where duty and breach are established, the claimant must prove factual causation on the 'but for' test: but for the breach, would the harm have occurred? Here the man would have died regardless of the negligence, so the breach did not cause the death and the claim fails on causation.",
+    "verified_for_ew": true,
+    "tags": [
+      "causation",
+      "but-for-test"
+    ],
+    "authority": "Barnett v Chelsea and Kensington Hospital Management Committee [1969] 1 QB 428"
+  },
+  {
+    "id": "ew-tort-0004",
+    "source": "original",
+    "jurisdiction": "England & Wales",
+    "subject": "Tort",
+    "flk": "FLK1",
+    "scenario": "A petrol station employs an attendant to serve customers. When a customer asks a question, the attendant responds with abuse, follows the customer onto the forecourt and violently assaults him. The customer sues the employer.",
+    "question": "Is the employer likely to be vicariously liable for the assault?",
+    "options": {
+      "A": "No, because an unauthorised criminal assault can never be in the course of employment.",
+      "B": "No, because the employer neither authorised nor knew of the assault.",
+      "C": "Yes, if the wrongful conduct is so closely connected with the employee's authorised duties that it is fair to hold the employer liable.",
+      "D": "Yes, because employers are strictly liable for everything employees do at work.",
+      "E": "No, because the attendant acted out of personal animosity."
+    },
+    "answer": "C",
+    "explanation": "An employer may be vicariously liable for an employee's wrongful act, including an intentional or criminal one, where there is a sufficiently close connection between the act and the employee's authorised duties that it is fair and just to impose liability. Serving and interacting with customers was within the attendant's field of activities, so the close-connection test may be satisfied.",
+    "verified_for_ew": true,
+    "tags": [
+      "vicarious-liability",
+      "close-connection"
+    ],
+    "authority": "Mohamud v WM Morrison Supermarkets plc [2016] UKSC 11"
+  },
+  {
+    "id": "ew-tort-0005",
+    "source": "original",
+    "jurisdiction": "England & Wales",
+    "subject": "Tort",
+    "flk": "FLK1",
+    "scenario": "A defendant negligently spills oil into a harbour. Unforeseeably, the oil is ignited by molten metal dropped from welding work, and a fire destroys the claimant's wharf. Some minor fouling damage to the wharf was foreseeable, but fire damage of this kind was not.",
+    "question": "Can the claimant recover for the fire damage?",
+    "options": {
+      "A": "Yes, because the defendant's negligence was a direct cause of the fire.",
+      "B": "Yes, because once any damage is foreseeable the defendant is liable for all consequences.",
+      "C": "No, because damage by fire was not a reasonably foreseeable kind of harm.",
+      "D": "No, because the welders were the only cause of the fire.",
+      "E": "Yes, because the 'eggshell skull' rule makes the defendant liable for all loss."
+    },
+    "answer": "C",
+    "explanation": "Damage is too remote, and irrecoverable, unless the kind of damage was reasonably foreseeable. The older directness test was rejected. Fire damage of this type was not foreseeable and is therefore too remote, even though some fouling damage was foreseeable.",
+    "verified_for_ew": true,
+    "tags": [
+      "remoteness",
+      "reasonable-foreseeability"
+    ],
+    "authority": "Overseas Tankship (UK) Ltd v Morts Dock & Engineering Co (The Wagon Mound) (No 1) [1961] AC 388"
+  },
+  {
+    "id": "ew-tort-0006",
+    "source": "original",
+    "jurisdiction": "England & Wales",
+    "subject": "Tort",
+    "flk": "FLK1",
+    "scenario": "A landowner knows that local teenagers regularly climb through a gap in his fence to swim in a deep, hidden quarry pool on his land. He does nothing. A teenager enters this way, dives in, and is seriously injured on submerged rocks the landowner knew about.",
+    "question": "Which best states the landowner's position under the Occupiers' Liability Act 1984?",
+    "options": {
+      "A": "He owes no duty at all, because the teenager is a trespasser.",
+      "B": "He owes the full common duty of care, as if the teenager were a lawful visitor.",
+      "C": "He may owe a duty to take reasonable care for the trespasser's safety, because he knew of the danger and that people were likely to encounter it.",
+      "D": "He is automatically liable for any injury suffered by anyone on his land.",
+      "E": "His only obligation was to put up a sign, regardless of the circumstances."
+    },
+    "answer": "C",
+    "explanation": "Under the Occupiers' Liability Act 1984 an occupier may owe a duty to a non-visitor (trespasser) where he is aware of the danger, knows or has reasonable grounds to believe a trespasser may come into its vicinity, and the risk is one against which he may reasonably be expected to offer some protection. The duty is narrower than the 1957 Act common duty of care, but it is not nil.",
+    "verified_for_ew": true,
+    "tags": [
+      "occupiers-liability-1984",
+      "trespasser"
+    ],
+    "authority": "Occupiers' Liability Act 1984, s 1"
+  },
+  {
+    "id": "ew-business-0002",
+    "source": "original",
+    "jurisdiction": "England & Wales",
+    "subject": "Business Law and Practice",
+    "flk": "FLK1",
+    "scenario": "A private company limited by shares wishes to amend its articles of association and, separately, to approve an ordinary commercial supply contract in the usual course of business.",
+    "question": "Which resolutions are required?",
+    "options": {
+      "A": "An ordinary resolution to amend the articles and a special resolution for the contract.",
+      "B": "A special resolution (at least 75%) to amend the articles; the ordinary contract needs no shareholder resolution as it is a board matter.",
+      "C": "A special resolution for both.",
+      "D": "An ordinary resolution for both.",
+      "E": "A unanimous resolution to amend the articles."
+    },
+    "answer": "B",
+    "explanation": "Amending the articles requires a special resolution (a majority of not less than 75%) under s 21. Entering an ordinary commercial contract in the usual course of business is a management decision for the directors and needs no shareholder resolution. An ordinary resolution is a simple majority over 50% (s 282); a special resolution is 75% or more (s 283).",
+    "verified_for_ew": true,
+    "tags": [
+      "resolutions",
+      "articles"
+    ],
+    "authority": "Companies Act 2006, ss 21, 282 and 283"
+  },
+  {
+    "id": "ew-business-0003",
+    "source": "original",
+    "jurisdiction": "England & Wales",
+    "subject": "Business Law and Practice",
+    "flk": "FLK1",
+    "scenario": "A director of a company learns, through her position, of a lucrative business opportunity that falls within the company's line of business. Without disclosing it or obtaining any approval, she takes the opportunity personally and profits from it.",
+    "question": "Has the director most likely breached her duties under the Companies Act 2006?",
+    "options": {
+      "A": "No, because the company did not actually pursue the opportunity.",
+      "B": "No, because directors are free to exploit opportunities in their own time.",
+      "C": "Yes, she has breached the duty to avoid a situation in which she has a conflict between her interests and those of the company.",
+      "D": "Yes, but only if the company can prove it suffered a loss.",
+      "E": "No, provided she acted honestly."
+    },
+    "answer": "C",
+    "explanation": "Section 175 imposes a duty to avoid a situation in which a director has, or can have, an interest that conflicts, or possibly may conflict, with the company's interests; this expressly covers exploitation of property, information or opportunity. It is irrelevant that the company could not or did not take the opportunity, and no loss need be shown. The conflict could have been authorised by the independent directors, but was not.",
+    "verified_for_ew": true,
+    "tags": [
+      "directors-duties",
+      "conflict-of-interest"
+    ],
+    "authority": "Companies Act 2006, s 175"
+  },
+  {
+    "id": "ew-business-0004",
+    "source": "original",
+    "jurisdiction": "England & Wales",
+    "subject": "Business Law and Practice",
+    "flk": "FLK1",
+    "scenario": "Two people carry on business together in partnership without a written agreement. One partner, acting in the ordinary course of the firm's business, orders stock from a supplier in the firm's name. The supplier is not paid.",
+    "question": "Who is liable to the supplier?",
+    "options": {
+      "A": "Only the partner who placed the order.",
+      "B": "The firm and both partners are jointly liable, because the partner acted in the ordinary course of the partnership business.",
+      "C": "Neither partner, because there was no written partnership agreement.",
+      "D": "Only the partner who did not place the order, as the principal.",
+      "E": "The supplier can recover only from partnership assets, never from the partners personally."
+    },
+    "answer": "B",
+    "explanation": "Every partner is an agent of the firm for the purpose of its business, and acts done in the ordinary course bind the firm. Partners are jointly liable for the firm's debts and obligations incurred while they are partners, and that liability extends to their personal assets. No written agreement is needed for a partnership to exist.",
+    "verified_for_ew": true,
+    "tags": [
+      "partnership",
+      "liability",
+      "agency"
+    ],
+    "authority": "Partnership Act 1890, ss 5 and 9"
+  },
+  {
+    "id": "ew-disputeres-0003",
+    "source": "original",
+    "jurisdiction": "England & Wales",
+    "subject": "Dispute Resolution",
+    "flk": "FLK1",
+    "scenario": "In a money claim, the claimant makes a valid Part 36 offer to settle for GBP 50,000, which the defendant rejects. The case goes to trial and the claimant is awarded GBP 60,000, more than its own offer.",
+    "question": "What are the likely costs consequences for the claimant under CPR Part 36?",
+    "options": {
+      "A": "The claimant recovers nothing extra; the normal costs rules apply.",
+      "B": "The claimant must pay the defendant's costs because the matter went to trial.",
+      "C": "The claimant is normally entitled to enhanced consequences, including indemnity costs and enhanced interest from the end of the relevant period.",
+      "D": "The offer is irrelevant once the case proceeds to judgment.",
+      "E": "Each side bears its own costs."
+    },
+    "answer": "C",
+    "explanation": "Where a claimant obtains a judgment at least as advantageous as its own Part 36 offer, the court will normally order, from the end of the relevant period, enhanced interest on the sum awarded, costs on the indemnity basis with enhanced interest on those costs, and an additional amount (subject to a cap), unless that would be unjust. Part 36 encourages reasonable settlement.",
+    "verified_for_ew": true,
+    "tags": [
+      "part-36",
+      "costs"
+    ],
+    "authority": "Civil Procedure Rules, Part 36 (r 36.17)"
+  },
+  {
+    "id": "ew-disputeres-0004",
+    "source": "original",
+    "jurisdiction": "England & Wales",
+    "subject": "Dispute Resolution",
+    "flk": "FLK1",
+    "scenario": "A defendant files a defence that, on analysis, contains no coherent answer to the claim and no supporting evidence. The claimant wants the claim determined without a full trial.",
+    "question": "What is the most appropriate application for the claimant to make?",
+    "options": {
+      "A": "An application for default judgment under Part 12.",
+      "B": "An application for summary judgment under Part 24, on the basis that the defendant has no real prospect of successfully defending and there is no other compelling reason for a trial.",
+      "C": "An application to strike out under Part 3 only, because Part 24 does not apply to claimants.",
+      "D": "An application for an interim payment.",
+      "E": "There is no procedure short of a full trial."
+    },
+    "answer": "B",
+    "explanation": "Under Part 24 the court may give summary judgment against a defendant if the defendant has no real prospect of successfully defending the claim or issue and there is no other compelling reason why the case should be disposed of at trial. Default judgment under Part 12 is unavailable because a defence has been filed.",
+    "verified_for_ew": true,
+    "tags": [
+      "summary-judgment",
+      "part-24"
+    ],
+    "authority": "Civil Procedure Rules, Part 24 (r 24.3)"
+  },
+  {
+    "id": "ew-disputeres-0005",
+    "source": "original",
+    "jurisdiction": "England & Wales",
+    "subject": "Dispute Resolution",
+    "flk": "FLK1",
+    "scenario": "A claim has been allocated to the multi-track and the court orders standard disclosure. A party holds a document that damages its own case and helps its opponent.",
+    "question": "What must the party do with that document under standard disclosure?",
+    "options": {
+      "A": "Nothing, because a party never has to disclose documents that harm its own case.",
+      "B": "Disclose it, because standard disclosure requires disclosure of documents that adversely affect a party's own case as well as those that support any party's case.",
+      "C": "Disclose it only if the opponent specifically requests it.",
+      "D": "Destroy it, since it is unhelpful.",
+      "E": "Disclose it only at trial."
+    },
+    "answer": "B",
+    "explanation": "Standard disclosure requires a party to disclose the documents on which it relies and the documents which adversely affect its own case, adversely affect another party's case, or support another party's case. A party must therefore disclose a document that harms its own case; destroying it would be a serious breach.",
+    "verified_for_ew": true,
+    "tags": [
+      "disclosure",
+      "standard-disclosure"
+    ],
+    "authority": "Civil Procedure Rules, r 31.6"
+  },
+  {
+    "id": "ew-criminal-0002",
+    "source": "original",
+    "jurisdiction": "England & Wales",
+    "subject": "Criminal Law",
+    "flk": "FLK2",
+    "scenario": "A man approaches a pedestrian, threatens to punch her unless she hands over her phone, and she gives it to him out of fear. He runs off with the phone.",
+    "question": "Which offence has the man most clearly committed?",
+    "options": {
+      "A": "Theft only, because no actual force was used.",
+      "B": "Robbery, because he stole and, immediately before doing so and in order to steal, put a person in fear of being then and there subjected to force.",
+      "C": "Burglary, because he took property from a person.",
+      "D": "Blackmail, because he made a demand.",
+      "E": "No offence, because the phone was handed over voluntarily."
+    },
+    "answer": "B",
+    "explanation": "A person is guilty of robbery if he steals and, immediately before or at the time of doing so and in order to steal, uses force on any person or puts or seeks to put any person in fear of being then and there subjected to force. Threatening immediate force to obtain the phone satisfies this; consent extracted by threat does not make the taking lawful.",
+    "verified_for_ew": true,
+    "tags": [
+      "robbery",
+      "theft"
+    ],
+    "authority": "Theft Act 1968, s 8"
+  },
+  {
+    "id": "ew-criminal-0003",
+    "source": "original",
+    "jurisdiction": "England & Wales",
+    "subject": "Criminal Law",
+    "flk": "FLK2",
+    "scenario": "During a fight, the defendant deliberately smashes a glass into the victim's face, intending to cause really serious harm, and inflicts a deep wound.",
+    "question": "Which is the most appropriate charge?",
+    "options": {
+      "A": "Assault occasioning actual bodily harm, contrary to s 47.",
+      "B": "Common assault.",
+      "C": "Wounding or causing grievous bodily harm with intent, contrary to s 18.",
+      "D": "Malicious wounding, contrary to s 20, only.",
+      "E": "No offence, because the victim was also fighting."
+    },
+    "answer": "C",
+    "explanation": "Section 18 covers wounding or causing grievous bodily harm with intent to cause grievous bodily harm; it is the most serious non-fatal offence and carries life imprisonment. Here the defendant intended really serious harm and caused a wound, so s 18 is appropriate. Section 20 requires only intention or recklessness as to some harm, and s 47 (ABH) is a lesser offence.",
+    "verified_for_ew": true,
+    "tags": [
+      "non-fatal-offences",
+      "GBH",
+      "intent"
+    ],
+    "authority": "Offences against the Person Act 1861, ss 18, 20 and 47"
+  },
+  {
+    "id": "ew-criminal-0004",
+    "source": "original",
+    "jurisdiction": "England & Wales",
+    "subject": "Criminal Law",
+    "flk": "FLK2",
+    "scenario": "A defendant sets fire to a house to frighten the occupant, not wanting anyone to die. A resident dies. The jury must decide whether the defendant intended to kill or cause grievous bodily harm.",
+    "question": "How should the jury approach the question of intention?",
+    "options": {
+      "A": "Intention is presumed because death was a natural result of the act.",
+      "B": "The jury must convict of murder if a reasonable person would have foreseen death.",
+      "C": "The jury may find the necessary intention only if death or serious harm was a virtual certainty from the defendant's act and the defendant appreciated that.",
+      "D": "Foresight of any risk of death is automatically intention.",
+      "E": "Motive (to frighten) is a complete defence to murder."
+    },
+    "answer": "C",
+    "explanation": "By statute a court is not bound to infer that a defendant intended a result merely because it was a natural and probable consequence; intention is decided on all the evidence. For oblique intent the jury may find intention only where the result was a virtual certainty of the defendant's actions and the defendant appreciated that. A reasonable-foreseeability or natural-consequence test is wrong.",
+    "verified_for_ew": true,
+    "tags": [
+      "intention",
+      "oblique-intent",
+      "mens-rea"
+    ],
+    "authority": "Criminal Justice Act 1967, s 8; R v Woollin [1999] 1 AC 82"
+  },
+  {
+    "id": "ew-criminal-0005",
+    "source": "original",
+    "jurisdiction": "England & Wales",
+    "subject": "Criminal Law",
+    "flk": "FLK2",
+    "scenario": "A man enters a house as a trespasser through an unlocked door, intending to steal. Once inside he takes a laptop.",
+    "question": "Which offence has he committed?",
+    "options": {
+      "A": "Theft only, because entry through an unlocked door is not burglary.",
+      "B": "Burglary, because he entered a building as a trespasser with intent to steal and stole once inside.",
+      "C": "Robbery, because he entered a dwelling.",
+      "D": "No offence, because the door was unlocked.",
+      "E": "Aggravated burglary, automatically, because it was a dwelling."
+    },
+    "answer": "B",
+    "explanation": "A person commits burglary under s 9(1)(a) if he enters a building or part of a building as a trespasser with intent to steal (among other intents), and under s 9(1)(b) if, having entered as a trespasser, he steals or attempts to steal. Both limbs are satisfied. It is irrelevant that the door was unlocked; what matters is entry as a trespasser. Aggravated burglary requires a weapon (s 10).",
+    "verified_for_ew": true,
+    "tags": [
+      "burglary",
+      "trespasser"
+    ],
+    "authority": "Theft Act 1968, s 9"
+  },
+  {
+    "id": "ew-land-0002",
+    "source": "original",
+    "jurisdiction": "England & Wales",
+    "subject": "Land Law",
+    "flk": "FLK2",
+    "scenario": "A buyer of a house is granted, in the transfer, the right to use a communal ornamental garden across the road, owned and maintained by the seller's retained estate. A dispute arises about whether this right is capable of being an easement.",
+    "question": "Which is the best statement of the requirements for a valid easement?",
+    "options": {
+      "A": "Any right agreed between neighbours is an easement.",
+      "B": "There must be a dominant and a servient tenement, the right must accommodate the dominant tenement, the two must be owned or occupied by different persons, and the right must be capable of forming the subject matter of a grant.",
+      "C": "An easement requires only that the right benefits one piece of land.",
+      "D": "Easements can exist without any servient land.",
+      "E": "A right to use a garden can never be an easement."
+    },
+    "answer": "B",
+    "explanation": "The four characteristics of an easement are: a dominant and a servient tenement; the right must accommodate (benefit) the dominant tenement; the tenements must be owned or occupied by different persons; and the right must be capable of forming the subject matter of a grant. A right to use a communal garden has been held capable of being an easement on this test.",
+    "verified_for_ew": true,
+    "tags": [
+      "easements",
+      "four-characteristics"
+    ],
+    "authority": "Re Ellenborough Park [1956] Ch 131"
+  },
+  {
+    "id": "ew-land-0003",
+    "source": "original",
+    "jurisdiction": "England & Wales",
+    "subject": "Land Law",
+    "flk": "FLK2",
+    "scenario": "An occupier is granted the right to occupy a self-contained flat for a fixed term at a rent, with exclusive possession. The written agreement is headed 'licence' and states that it does not create a tenancy.",
+    "question": "Is the agreement most likely a lease or a licence?",
+    "options": {
+      "A": "A licence, because the document is labelled a licence and says so.",
+      "B": "A licence, because the parties intended to avoid a tenancy.",
+      "C": "A lease, because the grant of exclusive possession for a term at a rent creates a tenancy regardless of the label.",
+      "D": "Neither, because the contradictory label is decisive.",
+      "E": "A lease only if the landlord later agrees to call it one."
+    },
+    "answer": "C",
+    "explanation": "Where an occupier is granted exclusive possession of premises for a term at a rent, the agreement is a tenancy (lease), whatever label the parties attach to it. The court looks at the substance of the arrangement, not its description; calling it a 'licence' does not prevent it being a lease.",
+    "verified_for_ew": true,
+    "tags": [
+      "lease-vs-licence",
+      "exclusive-possession"
+    ],
+    "authority": "Street v Mountford [1985] UKHL 4; [1985] AC 809"
+  },
+  {
+    "id": "ew-land-0004",
+    "source": "original",
+    "jurisdiction": "England & Wales",
+    "subject": "Land Law",
+    "flk": "FLK2",
+    "scenario": "A piece of land is to be conveyed to six adult friends to hold on trust for themselves as beneficial joint tenants.",
+    "question": "How many of them can hold the legal estate as trustees?",
+    "options": {
+      "A": "All six, as joint tenants of the legal estate.",
+      "B": "Only the first four named who are able and willing to act; the legal estate cannot be held by more than four trustees.",
+      "C": "Only two, in every case.",
+      "D": "Any number, provided they are all of full age.",
+      "E": "Only one, because land cannot be co-owned at law."
+    },
+    "answer": "B",
+    "explanation": "Where land is held on trust, the number of trustees cannot exceed four; where more than four are named, the first four named who are able and willing to act take the legal estate. The legal estate is always held on a joint tenancy and cannot be severed. The beneficial interests behind the trust are unaffected by this limit.",
+    "verified_for_ew": true,
+    "tags": [
+      "trustees",
+      "co-ownership",
+      "legal-estate"
+    ],
+    "authority": "Trustee Act 1925, s 34(2)"
+  },
+  {
+    "id": "ew-trusts-0002",
+    "source": "original",
+    "jurisdiction": "England & Wales",
+    "subject": "Trusts",
+    "flk": "FLK2",
+    "scenario": "A man tells his nephew, 'I give you my shares in ABC Ltd,' but never signs a stock transfer form or does anything else to transfer them. He intended an outright gift, not to declare himself a trustee. He dies with the shares still in his name.",
+    "question": "Does the nephew have any claim to the shares?",
+    "options": {
+      "A": "Yes, because equity will perfect the imperfect gift to give effect to the donor's intention.",
+      "B": "No, because the gift was incompletely constituted and equity will not perfect an imperfect gift or treat a failed gift as a declaration of trust.",
+      "C": "Yes, because the spoken words created a valid trust.",
+      "D": "Yes, because intention alone transfers shares.",
+      "E": "No, but only because the nephew is a relative."
+    },
+    "answer": "B",
+    "explanation": "To make a valid gift the donor must do everything necessary to transfer the property (here, execute a stock transfer and have the company register it). The transfer was never completed, so the gift is incompletely constituted. Equity will not perfect an imperfect gift, and a failed gift is not construed as a declaration of trust where the donor intended an outright gift.",
+    "verified_for_ew": true,
+    "tags": [
+      "constitution-of-trusts",
+      "imperfect-gift"
+    ],
+    "authority": "Milroy v Lord (1862) 4 De GF & J 264"
+  },
+  {
+    "id": "ew-trusts-0003",
+    "source": "original",
+    "jurisdiction": "England & Wales",
+    "subject": "Trusts",
+    "flk": "FLK2",
+    "scenario": "A man declares that he holds 50 of his 950 identical ordinary shares in a private company on trust for a friend. The shares are not segregated or numbered separately.",
+    "question": "Is there sufficient certainty of subject matter for a valid trust?",
+    "options": {
+      "A": "No, because the specific shares were not identified or segregated.",
+      "B": "Yes, because where the subject matter is intangible and the units are identical (such as shares of the same class), segregation of specific units is not required.",
+      "C": "No, because trusts of shares are not permitted.",
+      "D": "Yes, but only if the company consents.",
+      "E": "No, because a person cannot be trustee of his own property."
+    },
+    "answer": "B",
+    "explanation": "For tangible assets the trust property usually must be segregated or identified. But where the subject matter is intangible and the units are identical and interchangeable (such as shares of the same class in the same company), a declaration of trust over a specified number can be valid without segregating particular units, since each is indistinguishable.",
+    "verified_for_ew": true,
+    "tags": [
+      "certainty-of-subject-matter",
+      "shares"
+    ],
+    "authority": "Hunter v Moss [1994] 1 WLR 452"
+  },
+  {
+    "id": "ew-wills-0002",
+    "source": "original",
+    "jurisdiction": "England & Wales",
+    "subject": "Wills and Administration of Estates",
+    "flk": "FLK2",
+    "scenario": "A woman makes a valid will leaving everything to her sister. Two years later she marries. The will was not expressed to be made in contemplation of that marriage. She dies shortly after the wedding without making a new will.",
+    "question": "What is the status of the will?",
+    "options": {
+      "A": "It remains fully valid; marriage has no effect on a will.",
+      "B": "It was revoked by her marriage, so she died intestate.",
+      "C": "Only the gift to the sister is revoked; the rest stands.",
+      "D": "It is suspended until any children are born.",
+      "E": "It is valid, but the husband simply takes priority."
+    },
+    "answer": "B",
+    "explanation": "As a general rule a will is revoked by the testator's subsequent marriage or civil partnership, unless it was made in contemplation of that particular marriage. As this will was not, it was revoked and the woman died intestate; her estate passes under the intestacy rules.",
+    "verified_for_ew": true,
+    "tags": [
+      "revocation",
+      "marriage",
+      "intestacy"
+    ],
+    "authority": "Wills Act 1837, s 18"
+  },
+  {
+    "id": "ew-wills-0003",
+    "source": "original",
+    "jurisdiction": "England & Wales",
+    "subject": "Wills and Administration of Estates",
+    "flk": "FLK2",
+    "scenario": "A man dies intestate, survived by his wife and two adult children. His estate, after debts, substantially exceeds the statutory legacy figure.",
+    "question": "How is the estate distributed under the intestacy rules?",
+    "options": {
+      "A": "The wife takes the entire estate to the exclusion of the children.",
+      "B": "The children take the entire estate; the spouse takes nothing.",
+      "C": "The wife takes the personal chattels, a statutory legacy (a fixed net sum) with interest, and one half of the remaining residue absolutely; the children share the other half.",
+      "D": "The estate is divided equally, one third each, between the wife and the two children.",
+      "E": "The wife takes only a life interest in the whole estate."
+    },
+    "answer": "C",
+    "explanation": "Where an intestate is survived by a spouse or civil partner and issue, the survivor takes the personal chattels, a fixed net sum (the statutory legacy) plus interest, and one half of the rest of the residue absolutely; the issue take the other half on the statutory trusts. Since 1 October 2014 the spouse's share of residue in this situation is absolute, not a life interest.",
+    "verified_for_ew": true,
+    "tags": [
+      "intestacy",
+      "spouse-and-issue"
+    ],
+    "authority": "Administration of Estates Act 1925, s 46"
+  },
+  {
+    "id": "ew-property-0002",
+    "source": "original",
+    "jurisdiction": "England & Wales",
+    "subject": "Property Practice",
+    "flk": "FLK2",
+    "scenario": "A buyer and seller orally agree all the terms for the sale of a house and shake hands. Nothing is put in writing. The seller then refuses to proceed.",
+    "question": "Is there an enforceable contract for the sale of the land?",
+    "options": {
+      "A": "Yes, because oral agreements are binding once the terms are agreed.",
+      "B": "Yes, because the handshake amounts to part performance.",
+      "C": "No, because a contract for the sale of land must be in writing, incorporating all the agreed terms in one document, signed by or on behalf of each party.",
+      "D": "Yes, provided there were witnesses to the agreement.",
+      "E": "No, because all land contracts must be made by deed."
+    },
+    "answer": "C",
+    "explanation": "A contract for the sale or other disposition of an interest in land can only be made in writing, incorporating all the expressly agreed terms in one document (or, where contracts are exchanged, in each), signed by or on behalf of each party. An oral agreement does not satisfy this and is void. A deed is required for the later transfer, not for the contract.",
+    "verified_for_ew": true,
+    "tags": [
+      "land-contract",
+      "formalities",
+      "writing"
+    ],
+    "authority": "Law of Property (Miscellaneous Provisions) Act 1989, s 2"
+  },
+  {
+    "id": "ew-property-0003",
+    "source": "original",
+    "jurisdiction": "England & Wales",
+    "subject": "Property Practice",
+    "flk": "FLK2",
+    "scenario": "On completion of a freehold purchase, the parties need to transfer the legal estate to the buyer.",
+    "question": "What formality is required to convey or create the legal estate in the land?",
+    "options": {
+      "A": "A simple signed writing is sufficient.",
+      "B": "An oral agreement at completion.",
+      "C": "A deed: the conveyance of a legal estate must be made by deed, validly executed.",
+      "D": "Registration alone, with no document.",
+      "E": "Payment of the price is sufficient to pass the legal estate."
+    },
+    "answer": "C",
+    "explanation": "A conveyance of land or of any interest in land is void for the purpose of conveying or creating a legal estate unless made by deed. The transfer must be executed as a deed (in writing, clear on its face that it is a deed, signed, witnessed and delivered). For registered land the buyer must then be registered as proprietor to take the legal estate.",
+    "verified_for_ew": true,
+    "tags": [
+      "deed",
+      "conveyance",
+      "legal-estate"
+    ],
+    "authority": "Law of Property Act 1925, s 52; Law of Property (Miscellaneous Provisions) Act 1989, s 1"
+  },
+  {
+    "id": "ew-constitutional-0001",
+    "source": "original",
+    "jurisdiction": "England & Wales",
+    "subject": "Constitutional and Administrative Law",
+    "flk": "FLK1",
+    "scenario": "A public body makes a decision that a claimant wishes to challenge by judicial review. The claimant has sufficient interest and is within time.",
+    "question": "Which best describes the established grounds on which a decision may be judicially reviewed?",
+    "options": {
+      "A": "Only that the decision was morally wrong.",
+      "B": "Illegality, irrationality (unreasonableness) and procedural impropriety, with proportionality in some contexts.",
+      "C": "Only that the claimant disagrees with the outcome on the merits.",
+      "D": "Only a breach of contract by the public body.",
+      "E": "Any ground at all, since judicial review is unlimited."
+    },
+    "answer": "B",
+    "explanation": "The classic grounds of judicial review are illegality, irrationality (Wednesbury unreasonableness) and procedural impropriety, with proportionality applying in human rights and certain other contexts. Judicial review concerns the legality and process of a decision, not generally its merits, so mere disagreement with the outcome is not a ground.",
+    "verified_for_ew": true,
+    "tags": [
+      "judicial-review",
+      "grounds"
+    ],
+    "authority": "Council of Civil Service Unions v Minister for the Civil Service [1985] AC 374 (GCHQ); Senior Courts Act 1981, s 31"
+  },
+  {
+    "id": "ew-constitutional-0002",
+    "source": "original",
+    "jurisdiction": "England & Wales",
+    "subject": "Constitutional and Administrative Law",
+    "flk": "FLK1",
+    "scenario": "A higher court is faced with a UK Act of Parliament that appears incompatible with a Convention right. The court cannot read the statute compatibly however hard it tries.",
+    "question": "What can the court do under the Human Rights Act 1998?",
+    "options": {
+      "A": "Strike down and invalidate the Act of Parliament.",
+      "B": "Ignore the statute and apply the Convention directly.",
+      "C": "Make a declaration of incompatibility under s 4, which does not affect the validity or continuing operation of the Act.",
+      "D": "Amend the Act itself.",
+      "E": "Refer the Act to the European Court of Human Rights for annulment."
+    },
+    "answer": "C",
+    "explanation": "Section 3 requires legislation to be read and given effect compatibly with Convention rights so far as it is possible to do so. Where that is not possible, a higher court may make a declaration of incompatibility under s 4. Such a declaration does not invalidate the legislation or bind the parties; it leaves the Act in force and signals to Parliament that it may wish to amend it. UK courts cannot strike down primary legislation.",
+    "verified_for_ew": true,
+    "tags": [
+      "human-rights-act",
+      "declaration-of-incompatibility"
+    ],
+    "authority": "Human Rights Act 1998, ss 3 and 4"
+  },
+  {
+    "id": "ew-ethics-0002",
+    "source": "original",
+    "jurisdiction": "England & Wales",
+    "subject": "Ethics and Professional Conduct",
+    "flk": null,
+    "scenario": "A client asks a solicitor to act on the purchase of a property. The seller is a company in which the solicitor personally holds a significant shareholding, so the solicitor would benefit financially if the sale completes.",
+    "question": "What is the solicitor's position under the SRA Standards and Regulations?",
+    "options": {
+      "A": "The solicitor may act, because conveyancing is routine work.",
+      "B": "The solicitor may act provided the fee charged is reasonable.",
+      "C": "The solicitor must not act, because this is an own-interest conflict and there is no exception that permits acting in one.",
+      "D": "The solicitor may act if the client does not ask about the shareholding.",
+      "E": "The solicitor may act so long as the matter is disclosed only after completion."
+    },
+    "answer": "C",
+    "explanation": "A solicitor must not act where there is an own-interest conflict or a significant risk of one, that is, where the solicitor's own interests conflict with the client's. Unlike a conflict between two clients (which has limited exceptions), there is no exception permitting a solicitor to act in an own-interest conflict. The shareholding in the seller creates exactly such a conflict, so the solicitor must decline to act.",
+    "verified_for_ew": true,
+    "tags": [
+      "own-interest-conflict",
+      "conflict-of-interest"
+    ],
+    "authority": "SRA Code of Conduct for Solicitors, para 6.1"
+  },
+  {
+    "id": "ew-accounts-0002",
+    "source": "original",
+    "jurisdiction": "England & Wales",
+    "subject": "Solicitors Accounts",
+    "flk": "FLK2",
+    "scenario": "A solicitor receives a single cheque from a client. Part of it is money for professional fees already billed (business money) and part is money to be held for future disbursements not yet incurred (client money).",
+    "question": "How should the solicitor deal with the cheque under the SRA Accounts Rules?",
+    "options": {
+      "A": "Pay the whole cheque into the business account, since it contains business money.",
+      "B": "Pay the whole cheque into the client account, or promptly allocate and transfer the business-money element, so that the client money is held in the client account.",
+      "C": "Keep the cheque uncashed until the disbursements are incurred.",
+      "D": "Pay the whole cheque into the office petty cash.",
+      "E": "Return the cheque and require two separate cheques in all cases."
+    },
+    "answer": "B",
+    "explanation": "A receipt of mixed money must be dealt with so that the client-money element is held in a client account. In practice the firm either pays the whole sum into the client account and then promptly transfers out the business-money portion, or allocates promptly in accordance with the Accounts Rules. The key requirement is that client money is paid into, and kept in, a client account without delay.",
+    "verified_for_ew": true,
+    "tags": [
+      "client-money",
+      "mixed-receipt"
+    ],
+    "authority": "SRA Accounts Rules (rr 2-4)"
   }
 ]

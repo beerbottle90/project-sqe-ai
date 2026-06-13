@@ -1,0 +1,6 @@
+# Normalise line endings so the CI export-freshness check is deterministic
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.pdf binary

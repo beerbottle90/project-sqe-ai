@@ -1,5 +1,8 @@
 # Project SQE AI
 
+[![CI](https://github.com/beerbottle90/project-sqe-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/beerbottle90/project-sqe-ai/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 **An open-source, source-grounded AI study companion for the SQE1** — Part 1 of
 the Solicitors Qualifying Examination (England & Wales).
 
@@ -73,12 +76,15 @@ There is also a question-generation subagent in
 ├── .claude/                   # Claude Code layer
 │   ├── skills/                #   sqe-cold-start, sqe-quiz, sqe-generate-question
 │   └── agents/                #   sqe-question-generator
+├── .github/                   # CI workflow, issue & PR templates
+│   └── workflows/ci.yml       #   validates the bank + checks the export is fresh
 ├── questions/
 │   └── original_ew.json       # the verified England & Wales question bank
 ├── scripts/                   # local Python pipeline (optional)
 │   ├── cold_start_interview.py
 │   ├── quiz.py
 │   ├── build_question_pool.py
+│   ├── validate_questions.py  # schema + invariants check (used by CI)
 │   ├── export_knowledge.py    # JSON → claude-project/knowledge/02-question-bank.md
 │   └── fetch_source.py        # pull official text from legislation.gov.uk / Find Case Law
 ├── sources/                   # fetched official text (generated)
@@ -91,12 +97,14 @@ There is also a question-generation subagent in
 ## The question bank
 
 The source of truth is [`questions/original_ew.json`](questions/original_ew.json)
-— hand-written, **verified-for-England-&-Wales** SBA questions across the SQE1
-syllabus, each carrying a model answer, an explanation, and the governing
-authority. Convert it to the Project knowledge document with:
+— a growing bank of hand-written, **verified-for-England-&-Wales** SBA questions
+across the SQE1 syllabus (**44 questions as of v0.0.2**), each carrying a model
+answer, an explanation, and the governing authority. Validate it and convert it
+to the Project knowledge document with:
 
 ```bash
-python scripts/export_knowledge.py   # writes claude-project/knowledge/02-question-bank.md
+python scripts/validate_questions.py   # schema + invariants (also run in CI)
+python scripts/export_knowledge.py      # writes claude-project/knowledge/02-question-bank.md
 ```
 
 Each question follows this schema:

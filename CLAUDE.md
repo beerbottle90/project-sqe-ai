@@ -60,7 +60,11 @@ spec and the skills defer to it.
    clean text in `sources/`.
 2. Author one SBA question from that text; cite the section/case verbatim.
 3. Append it to `questions/original_ew.json` with `verified_for_ew: true`.
-4. `python scripts/export_knowledge.py` to refresh the knowledge doc.
+4. `python scripts/validate_questions.py` to check schema + invariants.
+5. `python scripts/export_knowledge.py` to refresh the knowledge doc.
+
+CI (`.github/workflows/ci.yml`) runs steps 4–5 on every push/PR and fails if the
+exported `02-question-bank.md` is out of sync with the JSON bank.
 
 Official sources, in order of preference: `legislation.gov.uk` (statute),
 `caselaw.nationalarchives.gov.uk` (Find Case Law), then `bailii.org`.
