@@ -1,0 +1,275 @@
+[
+  {
+    "id": "ew-contract-0001",
+    "source": "original",
+    "jurisdiction": "England & Wales",
+    "subject": "Contract",
+    "flk": "FLK1",
+    "scenario": "A builder agrees in a written contract to renovate a restaurant for a fixed price of GBP 80,000, to be completed by a set date. The restaurant owner has a separate contract with an incoming tenant under which she will incur a penalty if the premises are not ready on time. Part-way through, the builder realises he has under-priced the job and tells the owner he cannot continue unless she pays a further GBP 10,000. To avoid the penalty and the delay of finding a new builder, the owner agrees. The builder completes on time. The owner now refuses to pay the extra GBP 10,000.",
+    "question": "Is the owner legally bound to pay the additional GBP 10,000?",
+    "options": {
+      "A": "No, because the builder was already contractually bound to complete the work and provided no fresh consideration.",
+      "B": "Yes, because the owner obtained a practical benefit from the builder's completion and there was no economic duress.",
+      "C": "No, because a promise to pay more for an existing obligation is always unenforceable.",
+      "D": "Yes, because the original contract was automatically discharged and replaced by a new one.",
+      "E": "No, because the agreement to pay extra was not made by deed."
+    },
+    "answer": "B",
+    "explanation": "Where a party performs an existing contractual duty and thereby confers a practical benefit on the other (here, avoiding the penalty and the delay of re-engaging a builder), that benefit can amount to good consideration for a promise to pay more, provided the promise was not obtained by economic duress or fraud. The strict rule in Stilk v Myrick is qualified by this practical-benefit exception. There was no duress on these facts, so the promise is enforceable.",
+    "verified_for_ew": true,
+    "tags": ["consideration", "practical-benefit", "economic-duress"],
+    "authority": "Williams v Roffey Bros & Nicholls (Contractors) Ltd [1991] 1 QB 1"
+  },
+  {
+    "id": "ew-tort-0001",
+    "source": "original",
+    "jurisdiction": "England & Wales",
+    "subject": "Tort",
+    "flk": "FLK1",
+    "scenario": "An accountant negligently prepares a company's audited statutory accounts for its annual general meeting. An outside investor, unknown to the accountant, reads the published accounts and, relying on them, buys a large shareholding in the company. The accounts overstated the company's profits and the investor suffers a substantial loss.",
+    "question": "Is the accountant likely to owe the investor a duty of care in respect of this economic loss?",
+    "options": {
+      "A": "Yes, because anyone who foreseeably relies on negligently prepared accounts is owed a duty.",
+      "B": "Yes, because the accounts were published and the accountant should expect investors to rely on them.",
+      "C": "No, because statutory audit accounts are prepared for the shareholders as a body to exercise control, not to guide the investment decisions of individual investors.",
+      "D": "No, because pure economic loss can never be recovered in the tort of negligence.",
+      "E": "Yes, but only if the investor can prove the accountant acted dishonestly."
+    },
+    "answer": "C",
+    "explanation": "For a duty of care in respect of pure economic loss caused by a negligent statement, there must be foreseeability, sufficient proximity and that it be fair, just and reasonable to impose a duty. Statutory audit accounts are prepared so that shareholders as a body may exercise control of the company, not to guide individual investment decisions. There is therefore no assumption of responsibility to, or sufficient proximity with, an unknown investor for that purpose. Option D is wrong because pure economic loss is recoverable in the limited Hedley Byrne situations.",
+    "verified_for_ew": true,
+    "tags": ["negligent-misstatement", "pure-economic-loss", "duty-of-care"],
+    "authority": "Caparo Industries plc v Dickman [1990] UKHL 2"
+  },
+  {
+    "id": "ew-business-0001",
+    "source": "original",
+    "jurisdiction": "England & Wales",
+    "subject": "Business Law and Practice",
+    "flk": "FLK1",
+    "scenario": "The shareholders of a private company limited by shares wish to remove one of the directors from office before the end of the director's term. The director is also a shareholder and opposes the removal.",
+    "question": "Which of the following correctly states what is required to remove the director under section 168 of the Companies Act 2006?",
+    "options": {
+      "A": "A special resolution passed by at least 75% of the members, on 14 days' notice.",
+      "B": "An ordinary resolution passed at a general meeting, for which special notice of 28 days must be given; the written resolution procedure cannot be used.",
+      "C": "A unanimous written resolution of all the members.",
+      "D": "An ordinary resolution passed by written resolution on 14 days' notice.",
+      "E": "A board resolution of the directors, since the appointment and removal of directors is a board matter."
+    },
+    "answer": "B",
+    "explanation": "Under s 168 a director may be removed by ordinary resolution (a simple majority). Special notice of 28 days is required under s 312, and s 288(2)(a) excludes a s 168 removal from the written resolution procedure, so the resolution must be passed at a general meeting. The director also has the right to make representations under s 169.",
+    "verified_for_ew": true,
+    "tags": ["company-law", "removal-of-director", "special-notice"],
+    "authority": "Companies Act 2006, ss 168, 288(2)(a) and 312"
+  },
+  {
+    "id": "ew-disputeres-0001",
+    "source": "original",
+    "jurisdiction": "England & Wales",
+    "subject": "Dispute Resolution",
+    "flk": "FLK1",
+    "scenario": "A claimant issues a straightforward breach of contract claim against a builder. The amount in dispute is GBP 35,000, the claim is not complex, and the trial is expected to last no more than two days.",
+    "question": "To which track is the claim most likely to be allocated under the Civil Procedure Rules?",
+    "options": {
+      "A": "The small claims track.",
+      "B": "The fast track.",
+      "C": "The intermediate track.",
+      "D": "The multi-track.",
+      "E": "The commercial track."
+    },
+    "answer": "C",
+    "explanation": "The intermediate track, in force from 1 October 2023, is for claims of more than GBP 25,000 but not more than GBP 100,000 that are of modest complexity and whose trial is not expected to exceed three days. A straightforward GBP 35,000 claim falls within it. (Small claims: up to GBP 10,000; fast track: GBP 10,000-25,000; multi-track: over GBP 100,000 or complex matters.)",
+    "verified_for_ew": true,
+    "tags": ["civil-procedure", "track-allocation", "intermediate-track"],
+    "authority": "Civil Procedure Rules, Part 26 (intermediate track from 1 October 2023)"
+  },
+  {
+    "id": "ew-ethics-0001",
+    "source": "original",
+    "jurisdiction": "England & Wales",
+    "subject": "Ethics and Professional Conduct",
+    "flk": null,
+    "scenario": "During ongoing civil litigation, a solicitor's client privately admits that a key document already disclosed to the court and the other side was forged by the client. The client instructs the solicitor to say nothing and to continue relying on the document at trial.",
+    "question": "What is the most appropriate course of action for the solicitor under the SRA Standards and Regulations?",
+    "options": {
+      "A": "Continue to act and rely on the document, because the solicitor owes a paramount duty of confidentiality to the client.",
+      "B": "Immediately inform the court and the other side that the document is forged.",
+      "C": "Explain to the client that the document cannot be relied on; if the client refuses to allow the position to be corrected, cease to act, without disclosing the confidential information.",
+      "D": "Continue to act but privately decline to refer to the document in submissions.",
+      "E": "Report the client to the police and then continue to act as instructed."
+    },
+    "answer": "C",
+    "explanation": "Two duties collide: the duty not to mislead the court (which overrides the duty to the client) and the duty of confidentiality. The solicitor cannot continue to rely on a document known to be forged, as that would mislead the court; but the solicitor also cannot breach confidentiality by telling the court (so B is wrong). The correct course is to advise the client, and if the client will not allow the position to be put right, to cease acting without disclosing the privileged information.",
+    "verified_for_ew": true,
+    "tags": ["professional-conduct", "misleading-the-court", "confidentiality"],
+    "authority": "SRA Code of Conduct for Solicitors, paras 1.4 and 6.3"
+  },
+  {
+    "id": "ew-criminal-0001",
+    "source": "original",
+    "jurisdiction": "England & Wales",
+    "subject": "Criminal Law",
+    "flk": "FLK2",
+    "scenario": "On a rainy day a man takes a colleague's umbrella from the office stand, intending to use it on his way home and to return it to the stand the next morning. He uses it and brings it back the following day, exactly as he had planned.",
+    "question": "Has the man committed theft under the Theft Act 1968?",
+    "options": {
+      "A": "Yes, because he appropriated property belonging to another without consent.",
+      "B": "Yes, because dishonesty is presumed whenever a person takes another's property.",
+      "C": "No, because he lacked the intention to permanently deprive the colleague of the umbrella.",
+      "D": "No, because an umbrella is not 'property' within the meaning of the Act.",
+      "E": "Yes, because borrowing without permission always amounts to theft."
+    },
+    "answer": "C",
+    "explanation": "Theft under s 1 requires a dishonest appropriation of property belonging to another with the intention of permanently depriving the other of it. Section 6 makes clear that borrowing with a genuine intention to return generally does not amount to an intention permanently to deprive. As the man intended to return the umbrella, that element is missing (and his honesty is, in any event, doubtful as theft).",
+    "verified_for_ew": true,
+    "tags": ["theft", "mens-rea", "intention-to-permanently-deprive"],
+    "authority": "Theft Act 1968, ss 1 and 6"
+  },
+  {
+    "id": "ew-land-0001",
+    "source": "original",
+    "jurisdiction": "England & Wales",
+    "subject": "Land Law",
+    "flk": "FLK2",
+    "scenario": "Two siblings own a house as legal and beneficial joint tenants. After a dispute, one sibling serves a valid written notice on the other stating that she wishes to sever the joint tenancy. Shortly afterwards she dies, leaving a will that gives all her property to a friend.",
+    "question": "What is the effect on the equitable (beneficial) ownership of the house?",
+    "options": {
+      "A": "The whole house passes to the surviving sibling by survivorship, because the legal estate remains a joint tenancy.",
+      "B": "The written notice severed the beneficial joint tenancy, so the deceased held a half share as tenant in common, which passes under her will.",
+      "C": "The written notice was ineffective, because a joint tenancy can only be severed by mutual agreement.",
+      "D": "The friend takes the whole house under the will.",
+      "E": "The house automatically vests in the siblings' next of kin."
+    },
+    "answer": "B",
+    "explanation": "A joint tenant may sever the beneficial joint tenancy by giving written notice to the other joint tenant(s) under s 36(2) of the Law of Property Act 1925; this converts the beneficial interest into a tenancy in common. A severed share no longer passes by survivorship and so passes under the will. The legal estate cannot be severed and remains held on a joint tenancy. The friend therefore takes the deceased's half share, not the whole house (so D is wrong).",
+    "verified_for_ew": true,
+    "tags": ["co-ownership", "severance", "joint-tenancy"],
+    "authority": "Law of Property Act 1925, s 36(2)"
+  },
+  {
+    "id": "ew-trusts-0001",
+    "source": "original",
+    "jurisdiction": "England & Wales",
+    "subject": "Trusts",
+    "flk": "FLK2",
+    "scenario": "In his will a testator leaves his entire estate to his widow 'in full confidence that she will do what is right by our children'. The widow argues she takes the estate absolutely; the children argue that a trust was created in their favour.",
+    "question": "Is a trust likely to have been created?",
+    "options": {
+      "A": "Yes, because the testator clearly intended to benefit the children.",
+      "B": "Yes, because any expression of confidence imposes a binding trust obligation.",
+      "C": "No, because the words are merely precatory and do not show the certainty of intention required to create a trust.",
+      "D": "No, because a trust can never be created by will.",
+      "E": "Yes, because the three certainties are presumed in testamentary gifts."
+    },
+    "answer": "C",
+    "explanation": "The first of the three certainties is certainty of intention. Precatory words - expressions of hope, wish or confidence such as 'in full confidence' - do not, as a rule, demonstrate a binding intention to create a trust. The widow therefore takes the estate absolutely and no trust arises.",
+    "verified_for_ew": true,
+    "tags": ["three-certainties", "certainty-of-intention", "precatory-words"],
+    "authority": "Knight v Knight (1840) 3 Beav 148; Re Adams and Kensington Vestry (1884) 27 Ch D 394"
+  },
+  {
+    "id": "ew-wills-0001",
+    "source": "original",
+    "jurisdiction": "England & Wales",
+    "subject": "Wills and Administration of Estates",
+    "flk": "FLK2",
+    "scenario": "A testator executes a will that is correctly signed and witnessed by two adults present at the same time. One of the two witnesses is the husband of a friend to whom the will leaves GBP 20,000.",
+    "question": "What is the legal position?",
+    "options": {
+      "A": "The entire will is invalid because the spouse of a beneficiary acted as a witness.",
+      "B": "The will is valid and the GBP 20,000 gift to the friend is also valid.",
+      "C": "The will is valid, but the GBP 20,000 gift to the friend is void.",
+      "D": "The will is valid, but the friend takes only half of the GBP 20,000.",
+      "E": "The will is valid only if a third witness later confirms it."
+    },
+    "answer": "C",
+    "explanation": "If the formalities in s 9 are met (in writing, signed by the testator, and witnessed by two witnesses present at the same time) the will is validly executed. However, s 15 makes void any gift to a witness or to the spouse or civil partner of a witness; the rest of the will remains valid. Here there are two independent attesting witnesses, so the will stands, but the gift to the friend (whose husband witnessed) is void.",
+    "verified_for_ew": true,
+    "tags": ["wills", "attestation", "beneficiary-witness"],
+    "authority": "Wills Act 1837, ss 9 and 15"
+  },
+  {
+    "id": "ew-property-0001",
+    "source": "original",
+    "jurisdiction": "England & Wales",
+    "subject": "Property Practice",
+    "flk": "FLK2",
+    "scenario": "A buyer is purchasing a freehold house under a contract that incorporates the Standard Conditions of Sale. Contracts are exchanged on 1 March, with completion set for 1 April. On 15 March, before completion, the house is seriously damaged by fire.",
+    "question": "Who bears the risk of the fire damage, and what is the practical consequence?",
+    "options": {
+      "A": "The seller bears the risk until completion, so the buyer can simply withdraw with no loss.",
+      "B": "The risk passes to the buyer on exchange of contracts, so the buyer should have insured the property from exchange.",
+      "C": "The risk passes only on completion, so the seller must reinstate the property before completion.",
+      "D": "The risk is shared equally between buyer and seller.",
+      "E": "The contract is automatically frustrated and both parties are released."
+    },
+    "answer": "B",
+    "explanation": "Under the Standard Conditions of Sale the risk in the property passes to the buyer on exchange of contracts, and the seller is not obliged to keep the property insured for the buyer. The buyer is therefore advised to insure the property from the moment of exchange. The contract is not frustrated merely by damage to the property.",
+    "verified_for_ew": true,
+    "tags": ["conveyancing", "risk-on-exchange", "standard-conditions-of-sale"],
+    "authority": "Standard Conditions of Sale, condition 5.1"
+  },
+  {
+    "id": "ew-disputeres-0002",
+    "source": "original",
+    "jurisdiction": "England & Wales",
+    "subject": "Dispute Resolution",
+    "flk": "FLK1",
+    "scenario": "A client wishes to bring a claim for breach of a written commercial contract (not executed as a deed). The breach occurred on 10 June 2019. There is no personal injury element.",
+    "question": "By when must the client generally issue the claim to avoid it being time-barred under the Limitation Act 1980?",
+    "options": {
+      "A": "By 10 June 2020 (one year).",
+      "B": "By 10 June 2022 (three years).",
+      "C": "By 10 June 2025 (six years).",
+      "D": "By 10 June 2031 (twelve years).",
+      "E": "There is no limitation period for written contracts."
+    },
+    "answer": "C",
+    "explanation": "Under s 5 of the Limitation Act 1980, the limitation period for a simple contract is six years from the date the cause of action accrued. 10 June 2019 plus six years gives 10 June 2025. (A contract executed as a deed would attract a 12-year period under s 8; a personal injury claim would be three years under s 11.)",
+    "verified_for_ew": true,
+    "tags": ["limitation", "contract-six-years"],
+    "authority": "Limitation Act 1980, s 5"
+  },
+  {
+    "id": "ew-accounts-0001",
+    "source": "original",
+    "jurisdiction": "England & Wales",
+    "subject": "Solicitors Accounts",
+    "flk": "FLK2",
+    "scenario": "A solicitor receives GBP 5,000 from a client, expressly paid in advance on account of the solicitor's future fees, before any bill has been delivered.",
+    "question": "How must the solicitor treat this money under the SRA Accounts Rules?",
+    "options": {
+      "A": "It is business money and must be paid into the firm's business account immediately.",
+      "B": "It is client money and must be paid into a client account.",
+      "C": "It may be kept in cash in the office safe until a bill is raised.",
+      "D": "It must be paid to the SRA for safekeeping.",
+      "E": "It may be used immediately for any firm expense."
+    },
+    "answer": "B",
+    "explanation": "Money received on account of costs before a bill has been delivered is client money and must be paid promptly into a client account. Once the solicitor delivers a bill to the client, the relevant sum becomes business money and may then be transferred from the client account to the business account.",
+    "verified_for_ew": true,
+    "tags": ["client-money", "on-account-of-costs"],
+    "authority": "SRA Accounts Rules, rr 2-4"
+  },
+  {
+    "id": "ew-tort-0002",
+    "source": "original",
+    "jurisdiction": "England & Wales",
+    "subject": "Tort",
+    "flk": "FLK1",
+    "scenario": "A garden centre open to the public has an ornamental pond with brightly coloured fish. It is unfenced and sits close to the cafe. A five-year-old child, visiting with her father, leans over to look at the fish, slips on the wet stone edge and is injured. The garden centre argues that an adult would obviously have kept clear of the wet edge.",
+    "question": "Which of the following best states the garden centre's position under the Occupiers' Liability Act 1957?",
+    "options": {
+      "A": "It owes no duty, because the wet edge was an obvious danger that any visitor should avoid.",
+      "B": "It owes the common duty of care and must be prepared for children to be less careful than adults, so the obviousness of the danger to an adult is not decisive.",
+      "C": "It owes a duty only to the father, as the adult lawful visitor, and not to the child.",
+      "D": "It owes no duty, because the child was a trespasser at the pond.",
+      "E": "Its liability is automatically excluded because the danger was natural rather than man-made."
+    },
+    "answer": "B",
+    "explanation": "Section 2(2) imposes the common duty of care on an occupier towards all lawful visitors - to take such care as in all the circumstances is reasonable to see that the visitor will be reasonably safe in using the premises for the permitted purposes. Section 2(3)(a) provides that 'an occupier must be prepared for children to be less careful than adults', so a danger an adult would avoid may still found liability where the visitor is a young child. The child is a lawful visitor, the duty is owed to her directly, and there is no automatic exclusion for natural dangers - so C, D and E are wrong. This question was generated from the official statutory text on legislation.gov.uk.",
+    "verified_for_ew": true,
+    "tags": ["occupiers-liability", "common-duty-of-care", "children", "generated-from-legislation"],
+    "authority": "Occupiers' Liability Act 1957, s 2(2) and s 2(3)(a)"
+  }
+]
